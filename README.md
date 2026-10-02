@@ -18,7 +18,7 @@ The analysis was completed using **Microsoft Power BI**, including data cleaning
 
 **Dataset type:** Survey data containing categorical and numerical variables.
 
-##Main variables
+## Main variables
 
 * Age
 * Gender
