@@ -75,7 +75,7 @@ The dataset was prepared in Power BI by:
 
 ## Dashboard
 
-![Social Media Addiction Dashboard](dashboard/dashboard.png)
+![Social Media Addiction Dashboard](image.png)
 
 ### Key Dashboard Metrics
 
